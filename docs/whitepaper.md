@@ -4,28 +4,41 @@ slug: /
 
 # HomeDAO Whitepaper
 
-The HomeDAO is a decentralized autonomous organization that focuses on maximizing the sustainable usage of real estate. HomeDAO enables the decentralized, representative participation in the acquisition, management and long-term and short-term rental of real-estate property. HomeDAO will focus on the private home and apartment market and model its incentives to maximize community, for HomeDAO token holders, tenants or visitors. Core guiding principles are manifested in the HomeDAO Constitution.
+The HomeDAO is a decentralized autonomous organization that focuses on maximizing the sustainable usage of real estate.
 
-All processes within the DAO will be implemented in trustless smart contracts that govern the process of, for example:
+HomeDAO enables the decentralized, representative participation in the acquisition,
+management and rental of real-estate property.
+HomeDAO focuses on the private home and apartment market and models its incentives to maximize community,
+on behalf of tenants and DAO members.
+
+Core guiding principles are manifested in the HomeDAO Constitution.
+
+Processes within the DAO are implemented in trustless Smart Contracts that govern, among others:
 
 *   The creation and management of funding proposals around a new HomeDAO Property.
-*   Conversion of successful proposals into a tokenized representation of the real-world asset
-*   Long-term rental management of properties (with a focus on predictable, protected rents and max. occupancy)
-*   Short-term rental model (Web3 AirBnb, only if "main tenant” signs up) with market-rate rents (going back to renter (in lower rents) and the DAO).
-*   Rental payments to HomeDAO are modeled in web3 (with proxy on-ramps for non-crypto renters)
+*   Conversion of successful proposals into a tokenized representation of the real-world asset.
+*   Long-term rental management of properties with a focus on predictable, protected rents and maximum occupancy
+*   Short-term rental model with market-rate rents, used as a funding mechanism.
+*   Rental payments to HomeDAO are modeled on the blockchain, with proxy on-ramps for non-crypto renters.
 
-In order to bridge the gap between virtual participation and real-world property assets, HomeDAO will create a foundation that is able to purchase and hold the real-estate for its members.
+In order to bridge the gap between virtual participation and real-world property assets,
+HomeDAO operates foundation that is able to purchase and hold the real-estate for its members.
 
-The HomeDAO models several levels of membership, ranging from pseudo-anonymous to fully KYCed tenant. In this, personal information is only accessible to the foundation. Only the representative pseudo-anonymous levels are visible to other members of the DAO.
+HomeDAO models several levels of membership, ranging from pseudo-anonymous governance token holders to fully KYCed tenants.
+In this, personal information is only accessible to the foundation.
+Only the representative pseudo-anonymous levels are visible to other members of the DAO.
 
-The HomeDAO is built around a governance token (HOME) and a utility token (RENT). The HOME token allows members to actively participate in the governance of the DAO, for example, initiate, vote and execute on proposals  to update or change processes within the DAO.
+HomeDAO is built around a governance token (HOME) and a utility token (RENT).
+The HOME token allows members to actively participate in the governance of the DAO,
+for example, initiate, vote and execute on proposals to update or change processes within the DAO.
 
-RENT is the utility Token of HomeDAO. RENT gets distributed on the acquisition of new properties, enables holders to stake it as liquidity providers and allows them to participate on rental income of existing properties. Furthermore RENT is used to pay rent.
+RENT is the utility token of HomeDAO. RENT is distributed upon acquisition of new properties,
+and is staked by holders, allowing them to participate in rental income of existing properties.
 
 ## HomeDAO Structure
 
 [//]: # (Original Board: https://miro.com/app/board/uXjVO0opSu4=/ )
-![img alt](/whitepaper/home-dao-structure.jpeg)
+![HomeDAO Structure](/whitepaper/home-dao-structure.jpeg)
 
 HomeDAO is made up of the following components:
 
@@ -35,7 +48,8 @@ HomeDAO is made up of the following components:
 
 ### The Foundation
 
-The Foundation is a non-profit, off-chain legal entity, that owns the property and is the legal landlord in property rental contracts. As well as its legal role in rental contracts and property ownership, it also handles property management. In these respects, it operates like a traditional housing company (Wohnungsbauunternehmen), except that it operates according to the wishes of the DAO.
+The Foundation is a non-profit, off-chain legal entity, that owns the property and is the legal landlord in property rental contracts. As well as its legal role in rental contracts and property ownership, it also handles property management.
+In these respects, it operates like a traditional housing company, except that it operates according to the wishes of the DAO.
 
 The foundation is led by a director who represents the decisions of the DAO externally.
 
@@ -56,9 +70,9 @@ By staking RENT tokens in a pool, token holders earn yield in proportion to thei
 
 ## Relationship between Tenants and the Protocol
 
-HomeDAO intends to issue long- and short-term rental contracts. Rental contracts are "standard” contracts, issued in accordance with local laws and regulations, and are as such unrelated to the HomeDAO protocol and the cryptocurrency layer beneath it. Tenants are not required to directly borrow Rent tokens and do not pay rent daily.[\[a\]](#cmnt1)[\[b\]](#cmnt2)
+HomeDAO intends to issue long- and short-term rental contracts. Rental contracts are "standard" contracts, issued in accordance with local laws and regulations, and are as such unrelated to the HomeDAO protocol and the cryptocurrency layer beneath it. Tenants are not required to directly borrow Rent tokens, and do not pay rent daily.
 
-Behind the scenes, however, each rent payment is translated to a transfer of RENT tokens in the protocol. By modelling rental activity on-chain in this way, the protocol allows for the following three important factors that "power” the tokenomics of HomeDAO, and further the goals of the HomeDAO constitution.
+Behind the scenes, however, each rent payment is translated to a transfer of RENT tokens in the protocol. By modelling rental activity on-chain in this way, the protocol allows for the following three important factors that "power" the tokenomics of HomeDAO, and further the goals of the HomeDAO constitution.
 
 *   It enables short-term renting, for the benefit of long-term tenants
 *   It guarantees the flow of rental income into the system, and brings value to Rent tokens
@@ -103,7 +117,7 @@ Level 1 tokens are issued at a rate of $1 = 1 HOME Level 1.
 
 Level 1 holders may upgrade their tokens to Level 2 by going through KYC (see below)
 
-Level 2 tokens are not necessarily issued at a rate of 1:1 but are limited to a fixed amount per individual \[TBD\]
+Level 2 tokens are not necessarily issued at a rate of 1:1 but are limited to a fixed amount per individual [TBD]
 
 Level 3 tokens are managed by the foundation and are issued to (or held in trust for) the tenants of DAO properties or members of the foundation board.
 
@@ -117,13 +131,13 @@ The RENT token is the utility token used to pay rent in the HomeDAO protocol.
 
 The quantity of minted RENT tokens is tied directly to the foundation’s property portfolio. In particular, RENT tokens are issued on acquisition of new property, in relation to the value of the property.
 
-At any point in time, one or more "funds” are active, linked to a wallet under the control of the foundation.
+At any point in time, one or more "funds" are active, linked to a wallet under the control of the foundation.
 
 This fund has a target amount and a target date, as determined by the DAO.
 
-Investors in the fund are given "placeholder” tokens representing their investment. Funds invested in the fund are locked, and cannot be withdrawn, unless the target amount is not reached by the target date.
+Investors in the fund are given "placeholder" tokens representing their investment. Funds invested in the fund are locked, and cannot be withdrawn, unless the target amount is not reached by the target date.
 
-Once the fund reaches the target amount, it is "triggered”, which releases the funds to the foundation for the purpose of acquiring rental property (note, this funding takes the place of traditional capital - it is not expected that HomeDAO will need to obtain capital through bank loans or bond issuance, as in a traditional housing company, though not explicitly ruled out).
+Once the fund reaches the target amount, it is "triggered", which releases the funds to the foundation for the purpose of acquiring rental property (note, this funding takes the place of traditional capital - it is not expected that HomeDAO will need to obtain capital through bank loans or bond issuance, as in a traditional housing company, though not explicitly ruled out).
 
 Upon triggering the fund, investors can swap their placeholder tokens 1:1 for newly-minted RENT tokens.
 
@@ -139,9 +153,9 @@ Upon triggering the fund, investors can swap their placeholder tokens 1:1 for ne
 
 #### Staking RENT tokens and reserving properties
 
-As mentioned above, the foundation ensures that rental contracts in the "real world” are buffered from the protocol. However, in this section, we discuss what is happening at the protocol level when a tenant rents a HomeDAO property. So for the purposes of this section, "tenant” can be interpreted as "an agent that operates on the tenant’s behalf”.
+As mentioned above, the foundation ensures that rental contracts in the "real world" are buffered from the protocol. However, in this section, we discuss what is happening at the protocol level when a tenant rents a HomeDAO property. So for the purposes of this section, "tenant" can be interpreted as "an agent that operates on the tenant’s behalf".
 
-RENT tokens can be deposited into a pool, controlled by the protocol. This is called "staking”. By doing so they receive [pool tokens](https://www.google.com/url?q=https://www.gemini.com/cryptopedia/liquidity-provider-amm-tokens&sa=D&source=editors&ust=1652294147589147&usg=AOvVaw15xpx58WgB8qDPoZikb3Yc) called sRENT. The protocol will start with just one common stake pool, however depending on regulatory requirements, other pools may be created, which may have additional KYC or other requirements in order to stake there. Properties will be associated with one pool only.
+RENT tokens can be deposited into a pool, controlled by the protocol. This is called "staking". By doing so they receive [pool tokens](https://www.google.com/url?q=https://www.gemini.com/cryptopedia/liquidity-provider-amm-tokens&sa=D&source=editors&ust=1652294147589147&usg=AOvVaw15xpx58WgB8qDPoZikb3Yc) called sRENT. The protocol will start with just one common stake pool, however depending on regulatory requirements, other pools may be created, which may have additional KYC or other requirements in order to stake there. Properties will be associated with one pool only.
 
 Properties are represented in the protocol as a form of NFT, which contains the following values:
 
@@ -184,7 +198,7 @@ During the bootstrapping phase, the foundation will retain a treasury of RENT th
 
 #### How is the Daily rental rate R calculated?
 
-The daily rent rate R is set by the DAO on each property NFT. Typically, each rentable property is represented as a separate NFT, so S would be 1, and R would be the daily cost to rent this property long-term.[\[c\]](#cmnt3)[\[d\]](#cmnt4)[\[e\]](#cmnt5)[\[f\]](#cmnt6) 
+The daily rent rate R is set by the DAO on each property NFT. Typically, each rentable property is represented as a separate NFT, so S would be 1, and R would be the daily cost to rent this property long-term.
 
 Since tenants pay rent denominated in fiat, this rate is influenced by the RENT/USD exchange rate. Specifically, R is calculated by
 
@@ -215,7 +229,7 @@ HomeDAO uses on-chain tokenized identity in order to decouple the KYC process it
 
 As the DAO develops, this section will be fleshed out with answers to the following questions:
 *   What are the KYC and/or other requirements for a staker earning yield through rent payments
-*   Do we need stakers to be residents in the same country as the rental properties they are staking "against”?
+*   Do we need stakers to be residents in the same country as the rental properties they are staking "against"?
 *   KYC and/or other requirements for voting in the DAO (at any level).
 *   Proof of address for stakers or governance token holders?
 *   Do stakers or gov. token holders (of any level) need to be legally members of the foundation in some capacity?
@@ -224,12 +238,12 @@ As the DAO develops, this section will be fleshed out with answers to the follow
 
 The primary governing body of HomeDAO is the DAO itself, a collection of individuals that collaborate to manage and evolve HomeDAO, in accordance with the constitution and the overriding goals of the undertaking.
 
-Unlike purely on-chain protocols, HomeDAO is dealing with the accommodation and living conditions of real-life people, as well as local, national and international laws and regulations, and therefore requires a more rigid hierarchical structure than pure DAOs. This form of DAO is sometimes called a "Hybrid DAO”.
+Unlike purely on-chain protocols, HomeDAO is dealing with the accommodation and living conditions of real-life people, as well as local, national and international laws and regulations, and therefore requires a more rigid hierarchical structure than pure DAOs. This form of DAO is sometimes called a "Hybrid DAO".
 
 However, unlike a traditional company or foundation, HomeDAO operates according to two policies:
 
-*   "open-door”. Decisions are made in the open
-*   "social mobility”. There is a clear mechanism for moving between the hierarchies of the DAO
+*   "open-door". Decisions are made in the open
+*   "social mobility". There is a clear mechanism for moving between the hierarchies of the DAO
 
 Along these lines, the DAO issues a governance token: HOME at three [levels](#h.zh5ybqm23qss).
 
