@@ -24,6 +24,9 @@ RENT is the utility Token of HomeDAO. RENT gets distributed on the acquisition o
 
 ## HomeDAO Structure
 
+[//]: # (Original Board: https://miro.com/app/board/uXjVO0opSu4=/ )
+![img alt](/whitepaper/home-dao-structure.jpeg)
+
 HomeDAO is made up of the following components:
 
 *   The Foundation
@@ -243,29 +246,28 @@ Proposals that change the HomeDAO constitution, or that require changing the goa
 
 ### Example proposals, and their levels
 
-Proposal
-
-Level
-
-Change colour of the website
-
-1
-
-Approve pay for work on the website
-
-1
-
-Buy a property
-
-2
-
-Increase the daily rate for a property, within accepted margins
-
-3
-
-Amend the HomeDAO constitution
-
-3 supermajority
+<table>
+  <tr>
+    <th>Proposal</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>Change colour of the website</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Buy a property</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Increase the daily rate for a property, within accepted margins</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Amend the HomeDAO constitution</td>
+    <td>3 supermajority</td>
+  </tr>
+</table>
 
 ## Privacy
 
