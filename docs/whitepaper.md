@@ -158,7 +158,9 @@ The RENT deposited into the pool would be paid out to stakers depending on the p
 
 The stake pool maintains an exchange rate of sRENT
 
-[//]: # (![]&#40;images/image1.png&#41;)
+$$
+Rate=\frac{staked\ RENT}{minted\ sRENT}
+$$
 
 #### A working example
 
@@ -170,7 +172,9 @@ The stake pool maintains an exchange rate of sRENT
 
 In this case, the exchange rate R is
 
-[//]: # (![]&#40;images/image2.png&#41;)
+$$
+R=\frac{510k}{500k}=1.02
+$$
 
 #### How does the tenant obtain RENT tokens?
 
@@ -184,7 +188,9 @@ The daily rent rate R is set by the DAO on each property NFT. Typically, each re
 
 Since tenants pay rent denominated in fiat, this rate is influenced by the RENT/USD exchange rate. Specifically, R is calculated by
 
-[//]: # (![]&#40;images/image3.png&#41;)
+$$
+R=cx
+$$
 
 where
 
