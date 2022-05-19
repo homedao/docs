@@ -174,7 +174,7 @@ Upon triggering the fund, investors can swap their placeholder tokens 1:1 for ne
 3.
     1. The target is reached - RENT tokens are issued, the fund is passed to the foundation to invest in property
     2. The target is not reached, funds are returned to the investors
-3. Return to 1
+4. Return to 1
 
 [//]: # (Original Board: https://miro.com/app/board/uXjVOzxWf2k=/ )
 <div style={{textAlign:'center'}}>
