@@ -176,6 +176,11 @@ Upon triggering the fund, investors can swap their placeholder tokens 1:1 for ne
     2. The target is not reached, funds are returned to the investors
 3. Return to 1
 
+[//]: # (Original Board: https://miro.com/app/board/uXjVOzxWf2k=/ )
+<div style={{textAlign: 'center'}}>
+    <img src="/whitepaper/funds.jpeg" alt="HomeDAO Funds" width="700" />
+</div>
+
 #### Staking RENT tokens and reserving properties
 
 As mentioned above, the foundation ensures that rental contracts in the "real world" are buffered from the protocol.
