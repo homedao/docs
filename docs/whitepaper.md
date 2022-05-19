@@ -177,7 +177,7 @@ Upon triggering the fund, investors can swap their placeholder tokens 1:1 for ne
 3. Return to 1
 
 [//]: # (Original Board: https://miro.com/app/board/uXjVOzxWf2k=/ )
-<div style={{textAlign: 'center'}}>
+<div style={{textAlign:'center'}}>
     <img src="/whitepaper/funds.jpeg" alt="HomeDAO Funds" width="700" />
 </div>
 
