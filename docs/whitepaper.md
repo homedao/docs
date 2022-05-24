@@ -4,6 +4,47 @@ slug: /
 
 # HomeDAO Whitepaper
 
+In many cities in the world, the property rental industry is fast approaching a potentially disastrous turning point.
+Residential rent prices in the EU have risen 16% in ten
+years[^1], roughly in line with income[^2], but in Berlin, rent has increased
+by 46% in five years. In London, the average rent jumped over 10% in one year, and in Dublin, over ten years, rent has
+doubled[^3].
+
+There is a distinct sense, when reading these statistics, that "someone should do something". And often these sentiments
+manifest themselves as demands to governments to impose top-down measures, such as rent
+freezes[^4], state purchase of properties[^5], or even nationalisation of large renters[^6]. Aside from the political
+difficulty and cost to the taxpayer of these
+measures[^7], economists often argue that such measures are regressive and counterproductive. Whether they are right or
+not, most
+people agree that governments "should do something". However, are governments the only actors capable of making a
+difference here? After all, governments also have to balance the interests of investors and homeowners. Are the
+interests of tenants, prosective tenants and the next generation sufficiently represented by their governments? Can
+these groups make their voices heard in some other way? Influence their future in some other way?
+
+For generations, rental collectives and co-ops have offered an alternative model, allowing tenants protection against
+rising rents, in addition to, or in many cases, replacing, legal protection. These collectives typically work by taking
+properties "off the market", in other words, transferring ownership from a private company or individual, to a
+non-profit foundation, controlled by the tenants themselves or their representatives, on the understanding that the
+properties are no longer treated as assets. These cooperatives have often been successful in protecting their members,
+and belong, alongside governments, to the "arsenal" of weapons that tenants can yield against property investors and
+speculators. But these cooperatives have their own difficulties. They are difficult to scale, they arguably prioritise
+the existing tenant over the prospective tenant, and do not address the supply-side of the problem, that surely must be
+a component of the solution.
+
+A missing part of the puzzle is a mechanism by which cities can incentivise investment, promote new development, but
+protect the interests of tenants, both existing and prospective.
+
+## DAO
+
+A new form of "self-governance" is emerging, that offers an opportunity to add to the tool chest of modern economic
+systems, by combining crowdfunding, democracy, and the alignment of incentives. This form is the Decentralised
+Autonomous Organisation, or DAO, and has emerged in recent years in the blockchain and cryptocurrency communities. By
+enabling trustless voting mechanisms, DAOs extend the collectivisation and co-operation principles of organisations such
+as tenant collectives to a wider population, and by using Smart Contracts, DAOs allow investment to follow strict
+constraints, similar to laws passed by governments, that control how the investment upside can be distributed.
+
+## HomeDAO
+
 The HomeDAO is a decentralized autonomous organization that focuses on maximizing the sustainable usage of real estate.
 
 HomeDAO enables the decentralized, representative participation in the acquisition, management and rental of real-estate
@@ -137,7 +178,7 @@ Level 1 tokens are issued at a rate of $1 = 1 HOME Level 1.
 
 Level 1 holders may upgrade their tokens to Level 2 by going through KYC (see below)
 
-Level 2 tokens are not necessarily issued at a rate of 1:1 but are limited to a fixed amount per individual [TBD]
+Level 2 tokens are not necessarily issued at a rate of 1:1 but are limited to a fixed amount per individual.
 
 Level 3 tokens are managed by the foundation and are issued to (or held in trust for) the tenants of DAO properties or
 members of the foundation board.
@@ -376,3 +417,17 @@ This document describes the operations of the three structures, particularly foc
 staking, token issuance and voting. The details of the whitepaper are subject to change in accordance with the wishes of
 the DAO and the legal framework in which the organization operates, but are ultimately bound by the goals of the
 foundation, as exemplified in the HomeDAO constitution.
+
+[^1]: https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220114-1
+
+[^2]: https://www.statista.com/statistics/1201068/annual-net-earnings-in-the-eu/
+
+[^3]: https://www.dublinlive.ie/news/dublin-news/dublin-rents-growing-fastest-country-23033574
+
+[^4]: https://mietendeckel.berlin.de/
+
+[^5]: https://www.rbb24.de/wirtschaft/beitrag/2021/09/berlin-senat-wohnungen-kollatz-kauf-vonovia-deutsche-wohnen.html
+
+[^6]: https://www.dwenteignen.de/
+
+[^7]: https://www.tagesspiegel.de/berlin/enteignungsinitiative-in-berlin-entschaedigung-an-vergesellschaftete-firmen-soll-zwischen-14-und-23-milliarden-euro-kosten/27531020.html
