@@ -4,6 +4,14 @@ slug: /
 
 # HomeDAO Whitepaper
 
+:::caution Draft
+
+Please note, that this version of the HomeDAO whitepaper is still in a draft state. Any information hereafter are
+subject to change. We are actively looking for feedback to take into account for future iterations. Please note that all
+changes can be transparently reviewed by the community within the [HomeDAO Github](https://github.com/homedao/docs/commits/main).
+
+:::
+
 In many cities in the world, the property rental industry is fast approaching a potentially disastrous turning point.
 Residential rent prices in the EU have risen 16% in ten
 years[^1], roughly in line with income[^2], but in Berlin, rent has increased
